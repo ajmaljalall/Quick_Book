@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\InputHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Utilities\\InputHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Services\\UserManagementService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Services\\UserManagementService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Factories\\Factory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Factories\\Factory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\InputHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Utilities\\InputHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Views\\UserInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -162,11 +162,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Factory.h",
               "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Factories\\Factory.h",
               "RelativeDocumentMoniker": "Trenser.QuickBook\\Factories\\Factory.h",
@@ -174,8 +178,7 @@
               "RelativeToolTip": "Trenser.QuickBook\\Factories\\Factory.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-18T17:51:50.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-18T17:51:50.254Z"
             },
             {
               "$type": "Document",
@@ -215,15 +218,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "InputHelper.h",
               "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\InputHelper.h",
               "RelativeDocumentMoniker": "Trenser.QuickBook\\Utilities\\InputHelper.h",
               "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\InputHelper.h",
               "RelativeToolTip": "Trenser.QuickBook\\Utilities\\InputHelper.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-18T17:25:04.694Z"
+              "WhenOpened": "2026-05-18T17:25:04.694Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -239,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AuthenticationManagementService.cpp",
               "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Services\\AuthenticationManagementService.cpp",
               "RelativeDocumentMoniker": "Trenser.QuickBook\\Services\\AuthenticationManagementService.cpp",
@@ -247,12 +251,11 @@
               "RelativeToolTip": "Trenser.QuickBook\\Services\\AuthenticationManagementService.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-18T17:14:44.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-18T17:14:44.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserManagementService.h",
               "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Services\\UserManagementService.h",
               "RelativeDocumentMoniker": "Trenser.QuickBook\\Services\\UserManagementService.h",
