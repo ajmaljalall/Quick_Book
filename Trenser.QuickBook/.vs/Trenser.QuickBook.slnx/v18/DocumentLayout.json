@@ -1,0 +1,631 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Services\\UserManagementService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Services\\UserManagementService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Services\\AuthenticationManagementService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Services\\AuthenticationManagementService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Factories\\Factory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Factories\\Factory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\InputHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Utilities\\InputHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Views\\UserInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Views\\UserInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\Enums.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Utilities\\Enums.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\Validator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Utilities\\Validator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\Validator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Utilities\\Validator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\TimeStamp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Utilities\\TimeStamp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\TimeStamp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Utilities\\TimeStamp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\OutputHelper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Utilities\\OutputHelper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\OutputHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Utilities\\OutputHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\Enums.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Utilities\\Enums.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Services\\TheatreManagementService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Services\\TheatreManagementService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Services\\TheatreManagementService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Services\\TheatreManagementService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Services\\UserManagementService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Services\\UserManagementService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Services\\AuthenticationManagementService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Services\\AuthenticationManagementService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Ticket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Models\\Ticket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Models\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\TheatreOwner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Models\\TheatreOwner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Theatre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Models\\Theatre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Theatre.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Models\\Theatre.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Seat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Models\\Seat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Seat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Models\\Seat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Refund.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Models\\Refund.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Refund.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Models\\Refund.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Payment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Models\\Payment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Payment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Models\\Payment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Notification.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Models\\Notification.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Notification.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Models\\Notification.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Models\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Models\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Customer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Models\\Customer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Admin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Models\\Admin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Models\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\DataStore\\DataStore.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\DataStore\\DataStore.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Controller\\Controller.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Controller\\Controller.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Trenser.QuickBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3064269-26EE-44E2-86DD-A54AC18168DB}|Trenser.QuickBook\\Trenser.QuickBook.vcxproj|solutionrelative:Trenser.QuickBook\\Trenser.QuickBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Factory.h",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Factories\\Factory.h",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Factories\\Factory.h",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Factories\\Factory.h",
+              "RelativeToolTip": "Trenser.QuickBook\\Factories\\Factory.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-18T17:51:50.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enums.h",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\Enums.h",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Utilities\\Enums.h",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\Enums.h",
+              "RelativeToolTip": "Trenser.QuickBook\\Utilities\\Enums.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-18T17:25:51.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Validator.h",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\Validator.h",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Utilities\\Validator.h",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\Validator.h",
+              "RelativeToolTip": "Trenser.QuickBook\\Utilities\\Validator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-18T17:25:38.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TimeStamp.h",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\TimeStamp.h",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Utilities\\TimeStamp.h",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\TimeStamp.h",
+              "RelativeToolTip": "Trenser.QuickBook\\Utilities\\TimeStamp.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-18T17:25:28.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputHelper.h",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\InputHelper.h",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Utilities\\InputHelper.h",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\InputHelper.h",
+              "RelativeToolTip": "Trenser.QuickBook\\Utilities\\InputHelper.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-18T17:25:04.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OutputHelper.cpp",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\OutputHelper.cpp",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Utilities\\OutputHelper.cpp",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\OutputHelper.cpp",
+              "RelativeToolTip": "Trenser.QuickBook\\Utilities\\OutputHelper.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-18T17:27:54.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationManagementService.cpp",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Services\\AuthenticationManagementService.cpp",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Services\\AuthenticationManagementService.cpp",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Services\\AuthenticationManagementService.cpp",
+              "RelativeToolTip": "Trenser.QuickBook\\Services\\AuthenticationManagementService.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-18T17:14:44.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserManagementService.h",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Services\\UserManagementService.h",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Services\\UserManagementService.h",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Services\\UserManagementService.h",
+              "RelativeToolTip": "Trenser.QuickBook\\Services\\UserManagementService.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-18T17:16:07.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TimeStamp.cpp",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\TimeStamp.cpp",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Utilities\\TimeStamp.cpp",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\TimeStamp.cpp",
+              "RelativeToolTip": "Trenser.QuickBook\\Utilities\\TimeStamp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-18T17:28:28.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Validator.cpp",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\Validator.cpp",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Utilities\\Validator.cpp",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\Validator.cpp",
+              "RelativeToolTip": "Trenser.QuickBook\\Utilities\\Validator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-18T17:29:00.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserInterface.h",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Views\\UserInterface.h",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Views\\UserInterface.h",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Views\\UserInterface.h",
+              "RelativeToolTip": "Trenser.QuickBook\\Views\\UserInterface.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-18T17:51:07.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OutputHelper.h",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\OutputHelper.h",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Utilities\\OutputHelper.h",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\OutputHelper.h",
+              "RelativeToolTip": "Trenser.QuickBook\\Utilities\\OutputHelper.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-18T17:25:16.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TheatreManagementService.cpp",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Services\\TheatreManagementService.cpp",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Services\\TheatreManagementService.cpp",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Services\\TheatreManagementService.cpp",
+              "RelativeToolTip": "Trenser.QuickBook\\Services\\TheatreManagementService.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-18T17:22:17.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TheatreManagementService.h",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Services\\TheatreManagementService.h",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Services\\TheatreManagementService.h",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Services\\TheatreManagementService.h",
+              "RelativeToolTip": "Trenser.QuickBook\\Services\\TheatreManagementService.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-18T17:20:41.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserManagementService.cpp",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Services\\UserManagementService.cpp",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Services\\UserManagementService.cpp",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Services\\UserManagementService.cpp",
+              "RelativeToolTip": "Trenser.QuickBook\\Services\\UserManagementService.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-18T17:18:32.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthenticationManagementService.h",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Services\\AuthenticationManagementService.h",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Services\\AuthenticationManagementService.h",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Services\\AuthenticationManagementService.h",
+              "RelativeToolTip": "Trenser.QuickBook\\Services\\AuthenticationManagementService.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-18T17:14:17.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Theatre.cpp",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Theatre.cpp",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Models\\Theatre.cpp",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Theatre.cpp",
+              "RelativeToolTip": "Trenser.QuickBook\\Models\\Theatre.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-18T17:11:43.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Theatre.h",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Theatre.h",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Models\\Theatre.h",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Theatre.h",
+              "RelativeToolTip": "Trenser.QuickBook\\Models\\Theatre.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-18T17:11:25.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Payment.h",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Payment.h",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Models\\Payment.h",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Payment.h",
+              "RelativeToolTip": "Trenser.QuickBook\\Models\\Payment.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-18T15:35:51.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Payment.cpp",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Payment.cpp",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Models\\Payment.cpp",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Payment.cpp",
+              "RelativeToolTip": "Trenser.QuickBook\\Models\\Payment.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-18T17:00:32.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Refund.h",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Refund.h",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Models\\Refund.h",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Refund.h",
+              "RelativeToolTip": "Trenser.QuickBook\\Models\\Refund.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-18T15:36:42.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Refund.cpp",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Refund.cpp",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Models\\Refund.cpp",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Refund.cpp",
+              "RelativeToolTip": "Trenser.QuickBook\\Models\\Refund.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-18T17:08:21.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TheatreOwner.h",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\TheatreOwner.h",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Models\\TheatreOwner.h",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\TheatreOwner.h",
+              "RelativeToolTip": "Trenser.QuickBook\\Models\\TheatreOwner.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-18T15:37:40.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Ticket.h",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Ticket.h",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Models\\Ticket.h",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Ticket.h",
+              "RelativeToolTip": "Trenser.QuickBook\\Models\\Ticket.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-18T17:08:05.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.h",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\User.h",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Models\\User.h",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\User.h",
+              "RelativeToolTip": "Trenser.QuickBook\\Models\\User.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-18T15:34:08.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Notification.cpp",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Notification.cpp",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Models\\Notification.cpp",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Notification.cpp",
+              "RelativeToolTip": "Trenser.QuickBook\\Models\\Notification.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-18T17:03:17.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Notification.h",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Notification.h",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Models\\Notification.h",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Notification.h",
+              "RelativeToolTip": "Trenser.QuickBook\\Models\\Notification.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-18T15:36:22.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Log.cpp",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Log.cpp",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Models\\Log.cpp",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Log.cpp",
+              "RelativeToolTip": "Trenser.QuickBook\\Models\\Log.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-18T17:02:11.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Seat.h",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Seat.h",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Models\\Seat.h",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Seat.h",
+              "RelativeToolTip": "Trenser.QuickBook\\Models\\Seat.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-18T15:36:33.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Seat.cpp",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Seat.cpp",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Models\\Seat.cpp",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Seat.cpp",
+              "RelativeToolTip": "Trenser.QuickBook\\Models\\Seat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-18T17:06:06.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Log.h",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Log.h",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Models\\Log.h",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Log.h",
+              "RelativeToolTip": "Trenser.QuickBook\\Models\\Log.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-18T15:36:06.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Customer.h",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Customer.h",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Models\\Customer.h",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Customer.h",
+              "RelativeToolTip": "Trenser.QuickBook\\Models\\Customer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-18T15:37:28.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Admin.h",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Admin.h",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Models\\Admin.h",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\Admin.h",
+              "RelativeToolTip": "Trenser.QuickBook\\Models\\Admin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-18T15:37:49.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "User.cpp",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\User.cpp",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Models\\User.cpp",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Models\\User.cpp",
+              "RelativeToolTip": "Trenser.QuickBook\\Models\\User.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-18T17:04:59.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DataStore.h",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\DataStore\\DataStore.h",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\DataStore\\DataStore.h",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\DataStore\\DataStore.h",
+              "RelativeToolTip": "Trenser.QuickBook\\DataStore\\DataStore.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-18T15:41:31.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Controller.h",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Controller\\Controller.h",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Controller\\Controller.h",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Controller\\Controller.h",
+              "RelativeToolTip": "Trenser.QuickBook\\Controller\\Controller.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-18T15:41:03.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Trenser.QuickBook.cpp",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Trenser.QuickBook.cpp",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Trenser.QuickBook.cpp",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Trenser.QuickBook.cpp",
+              "RelativeToolTip": "Trenser.QuickBook\\Trenser.QuickBook.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-18T15:25:43.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Enums.cpp",
+              "DocumentMoniker": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\Enums.cpp",
+              "RelativeDocumentMoniker": "Trenser.QuickBook\\Utilities\\Enums.cpp",
+              "ToolTip": "D:\\QuickBook\\Quick_Book\\Trenser.QuickBook\\Trenser.QuickBook\\Utilities\\Enums.cpp",
+              "RelativeToolTip": "Trenser.QuickBook\\Utilities\\Enums.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-18T17:26:21.88Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

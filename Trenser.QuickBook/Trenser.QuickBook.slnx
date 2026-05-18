@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Trenser.QuickBook/Trenser.QuickBook.vcxproj" Id="b3064269-26ee-44e2-86dd-a54ac18168db" />
+</Solution>

@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Models">
+      <UniqueIdentifier>{298455ea-78b2-478e-975d-4c99b0729bb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Factories">
+      <UniqueIdentifier>{30070d71-ab74-42e8-8d7e-e4c58eeb6f07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataStore">
+      <UniqueIdentifier>{0391e54b-4a55-4b5c-b026-9601ed2b8499}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utilities">
+      <UniqueIdentifier>{57d1a4c5-0c71-4574-8a51-f910c12bf0b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Services">
+      <UniqueIdentifier>{754c6807-55d0-4d21-aa92-ff5aeb6e13c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Controller">
+      <UniqueIdentifier>{41d4d729-283d-4e60-b831-34b9e8effe9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Views">
+      <UniqueIdentifier>{4a3c59d6-c33f-48d6-8a4e-c679c26af1d6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Models\User.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\Booking.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\Log.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\Movie.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\Notification.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\Payment.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\Refund.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\Screen.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\Seat.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\Show.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\Theatre.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\Admin.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\Customer.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\TheatreOwner.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Controller\Controller.cpp">
+      <Filter>Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStore\DataStore.cpp">
+      <Filter>DataStore</Filter>
+    </ClCompile>
+    <ClCompile Include="Services\AuthenticationManagementService.cpp">
+      <Filter>Services</Filter>
+    </ClCompile>
+    <ClCompile Include="Services\BookingManagementService.cpp">
+      <Filter>Services</Filter>
+    </ClCompile>
+    <ClCompile Include="Services\LogManagementService.cpp">
+      <Filter>Services</Filter>
+    </ClCompile>
+    <ClCompile Include="Services\MovieManagementService.cpp">
+      <Filter>Services</Filter>
+    </ClCompile>
+    <ClCompile Include="Services\PaymentManagementService.cpp">
+      <Filter>Services</Filter>
+    </ClCompile>
+    <ClCompile Include="Services\ScreenManagementService.cpp">
+      <Filter>Services</Filter>
+    </ClCompile>
+    <ClCompile Include="Services\SeatManagementService.cpp">
+      <Filter>Services</Filter>
+    </ClCompile>
+    <ClCompile Include="Services\ShowManagementService.cpp">
+      <Filter>Services</Filter>
+    </ClCompile>
+    <ClCompile Include="Services\TheatreManagementService.cpp">
+      <Filter>Services</Filter>
+    </ClCompile>
+    <ClCompile Include="Services\TicketManagementService.cpp">
+      <Filter>Services</Filter>
+    </ClCompile>
+    <ClCompile Include="Services\RefundManagementService.cpp">
+      <Filter>Services</Filter>
+    </ClCompile>
+    <ClCompile Include="Services\UserManagementService.cpp">
+      <Filter>Services</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\ShowSeatAvailability.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Models\Ticket.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Utilities\Validator.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="Utilities\TimeStamp.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="Utilities\OutputHelper.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="Utilities\InputHelper.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="Utilities\Enums.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="Trenser.QuickBook.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Views\UserInterface.cpp">
+      <Filter>Views</Filter>
+    </ClCompile>
+    <ClCompile Include="Factories\Factory.cpp">
+      <Filter>Factories</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Models\User.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\Theatre.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\Show.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\Seat.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\Screen.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\Refund.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\Payment.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\Notification.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\Movie.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\Log.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\Booking.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\TheatreOwner.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\Customer.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\Admin.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Controller\Controller.h">
+      <Filter>Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStore\DataStore.h">
+      <Filter>DataStore</Filter>
+    </ClInclude>
+    <ClInclude Include="Services\UserManagementService.h">
+      <Filter>Services</Filter>
+    </ClInclude>
+    <ClInclude Include="Services\TicketManagementService.h">
+      <Filter>Services</Filter>
+    </ClInclude>
+    <ClInclude Include="Services\TheatreManagementService.h">
+      <Filter>Services</Filter>
+    </ClInclude>
+    <ClInclude Include="Services\ShowManagementService.h">
+      <Filter>Services</Filter>
+    </ClInclude>
+    <ClInclude Include="Services\SeatManagementService.h">
+      <Filter>Services</Filter>
+    </ClInclude>
+    <ClInclude Include="Services\ScreenManagementService.h">
+      <Filter>Services</Filter>
+    </ClInclude>
+    <ClInclude Include="Services\PaymentManagementService.h">
+      <Filter>Services</Filter>
+    </ClInclude>
+    <ClInclude Include="Services\MovieManagementService.h">
+      <Filter>Services</Filter>
+    </ClInclude>
+    <ClInclude Include="Services\LogManagementService.h">
+      <Filter>Services</Filter>
+    </ClInclude>
+    <ClInclude Include="Services\BookingManagementService.h">
+      <Filter>Services</Filter>
+    </ClInclude>
+    <ClInclude Include="Services\AuthenticationManagementService.h">
+      <Filter>Services</Filter>
+    </ClInclude>
+    <ClInclude Include="Services\RefundManagementService.h">
+      <Filter>Services</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\ShowSeatAvailability.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\Ticket.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities\Validator.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities\TimeStamp.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities\OutputHelper.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities\InputHelper.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities\Enums.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Views\UserInterface.h">
+      <Filter>Views</Filter>
+    </ClInclude>
+    <ClInclude Include="Factories\Factory.h">
+      <Filter>Factories</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
