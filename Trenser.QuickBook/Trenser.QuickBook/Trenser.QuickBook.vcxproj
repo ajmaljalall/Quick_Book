@@ -105,7 +105,7 @@
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
-      <AdditionalIncludeDirectories>C:\Users\1908\Desktop\Ajmal\Quick_Book\Trenser.QuickBook\Trenser.QuickBook\Controller;C:\Users\1908\Desktop\Ajmal\Quick_Book\Trenser.QuickBook\Trenser.QuickBook\DataStore;C:\Users\1908\Desktop\Ajmal\Quick_Book\Trenser.QuickBook\Trenser.QuickBook\Factories;C:\Users\1908\Desktop\Ajmal\Quick_Book\Trenser.QuickBook\Trenser.QuickBook\Models;C:\Users\1908\Desktop\Ajmal\Quick_Book\Trenser.QuickBook\Trenser.QuickBook\Services;C:\Users\1908\Desktop\Ajmal\Quick_Book\Trenser.QuickBook\Trenser.QuickBook\Utilities;C:\Users\1908\Desktop\Ajmal\Quick_Book\Trenser.QuickBook\Trenser.QuickBook\Views;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(ProjectDir)Controller;$(ProjectDir)DataStore;$(ProjectDir)Factories;$(ProjectDir)Models;$(ProjectDir)Services;$(ProjectDir)Utilities;$(ProjectDir)Views;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
