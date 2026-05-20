@@ -1,7 +1,7 @@
 #include "Movie.h"
 
 Movie::Movie()
-    : m_id(""),
+    : m_movieId(""),
     m_title(""),
     m_language(""),
     m_genre(""),
@@ -9,13 +9,13 @@ Movie::Movie()
     m_status(0)
 {}
 
-Movie::Movie(const std::string& id,
+Movie::Movie(const std::string& movieId,
     const std::string& title,
     const std::string& language,
     const std::string& genre,
     int duration,
     int status)
-    : m_id(id),
+    : m_movieId(movieId),
     m_title(title),
     m_language(language),
     m_genre(genre),
@@ -23,9 +23,9 @@ Movie::Movie(const std::string& id,
     m_status(status)
 {}
 
-const std::string& Movie::getId() const
+const std::string& Movie::getMovieId() const
 {
-    return m_id;
+    return m_movieId;
 }
 
 const std::string& Movie::getTitle() const
@@ -53,9 +53,9 @@ int Movie::getStatus() const
     return m_status;
 }
 
-void Movie::setId(const std::string& id)
+void Movie::setMovieId(const std::string& id)
 {
-    m_id = id;
+    m_movieId = id;
 }
 
 void Movie::setTitle(const std::string& title)

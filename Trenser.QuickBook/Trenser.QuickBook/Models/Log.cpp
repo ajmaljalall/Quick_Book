@@ -1,19 +1,19 @@
 #include "Log.h"
 
 Log::Log()
-    : m_id(""),
+    : m_logId(""),
     m_description("")
 {}
 
-Log::Log(const std::string& id,
+Log::Log(const std::string& logId,
     const std::string& description)
-    : m_id(id),
+    : m_logId(logId),
     m_description(description)
 {}
 
-const std::string& Log::getId() const
+const std::string& Log::getLogId() const
 {
-    return m_id;
+    return m_logId;
 }
 
 const std::string& Log::getDescription() const
@@ -21,9 +21,9 @@ const std::string& Log::getDescription() const
     return m_description;
 }
 
-void Log::setId(const std::string& id)
+void Log::setLogId(const std::string& id)
 {
-    m_id = id;
+    m_logId = id;
 }
 
 void Log::setDescription(const std::string& description)

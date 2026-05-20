@@ -10,7 +10,7 @@ Show::Show()
     m_showStatus(0)
 {}
 
-Show::Show(const std::string& showId,
+Show::Show(const std::string showId,
     Movie* movie,
     Screen* screen,
     time_t startTime,
@@ -26,7 +26,7 @@ Show::Show(const std::string& showId,
     m_showStatus(showStatus)
 {}
 
-const std::string& Show::getShowId() const
+const std::string Show::getShowId() const
 {
     return m_showId;
 }

@@ -1,7 +1,7 @@
 #include "Refund.h"
 
 Refund::Refund()
-    : m_id(""),
+    : m_refundId(""),
     m_bookedTicket(nullptr),
     m_refundAmount(0.0),
     m_time(""),
@@ -13,16 +13,16 @@ Refund::Refund(const std::string& id,
     double refundAmount,
     const std::string& time,
     int status)
-    : m_id(id),
+    : m_refundId(id),
     m_bookedTicket(bookedTicket),
     m_refundAmount(refundAmount),
     m_time(time),
     m_status(status)
 {}
 
-const std::string& Refund::getId() const
+const std::string& Refund::getRefundId() const
 {
-    return m_id;
+    return m_refundId;
 }
 
 Ticket* Refund::getBookedTicket() const
@@ -45,9 +45,9 @@ int Refund::getStatus() const
     return m_status;
 }
 
-void Refund::setId(const std::string& id)
+void Refund::setRefundId(const std::string& id)
 {
-    m_id = id;
+    m_refundId = id;
 }
 
 void Refund::setBookedTicket(Ticket* bookedTicket)

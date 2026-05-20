@@ -17,6 +17,8 @@
 class DataStore
 {
 private:
+	DataStore() : m_currentUser(nullptr) {}
+	User* m_currentUser;
 	std::map<std::string, User*> m_users;
 	std::map<std::string, Booking*> m_booking;
 	std::map<std::string, Log*> m_log;
@@ -30,6 +32,9 @@ private:
 	std::map<std::string, ShowSeatAvailability> m_showSeatAvailability;
 	std::map<std::string, Theatre*> m_theatre;
 	std::map<std::string, Ticket*> m_ticket;
-
+public:
+	DataStore(const DataStore&) = delete;
+	DataStore& operator=(const DataStore&) = delete;
+	static DataStore& getInstance();
 };
 

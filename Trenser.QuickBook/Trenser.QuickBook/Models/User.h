@@ -11,7 +11,6 @@ private:
     long int m_phoneNumber;
     int m_userType; // enum placeholder
     int m_status;   // enum placeholder
-
 public:
     User();
     User(const std::string& userId,
@@ -21,7 +20,6 @@ public:
         long int phoneNumber,
         int userType,
         int status);
-
     const std::string& getUserId() const;
     const std::string& getUserName() const;
     const std::string& getEmail() const;
@@ -29,7 +27,6 @@ public:
     long int getPhoneNumber() const;
     int getUserType() const;
     int getStatus() const;
-
     void setUserId(const std::string& userId);
     void setUserName(const std::string& userName);
     void setEmail(const std::string& email);

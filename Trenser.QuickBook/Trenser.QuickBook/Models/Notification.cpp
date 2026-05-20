@@ -1,7 +1,7 @@
 #include "Notification.h"
 
 Notification::Notification()
-    : m_id(""),
+    : m_notificationId(""),
     m_receiver(nullptr),
     m_message(""),
     m_status(0),
@@ -13,16 +13,16 @@ Notification::Notification(const std::string& id,
     const std::string& message,
     int status,
     const std::string& time)
-    : m_id(id),
+    : m_notificationId(id),
     m_receiver(receiver),
     m_message(message),
     m_status(status),
     m_time(time)
 {}
 
-const std::string& Notification::getId() const
+const std::string& Notification::getNotificationId() const
 {
-    return m_id;
+    return m_notificationId;
 }
 
 User* Notification::getReceiver() const
@@ -45,9 +45,9 @@ const std::string& Notification::getTime() const
     return m_time;
 }
 
-void Notification::setId(const std::string& id)
+void Notification::setNotificationId(const std::string& id)
 {
-    m_id = id;
+    m_notificationId = id;
 }
 
 void Notification::setReceiver(User* receiver)

@@ -14,7 +14,6 @@ private:
     int m_totalColumns;
     std::vector<std::vector<Seat*>> m_seatGrid;
     int m_screenStatus; // enum placeholder
-
 public:
     Screen();
     Screen(const std::string& screenId,
@@ -24,7 +23,6 @@ public:
         int totalColumns,
         const std::vector<std::vector<Seat*>>& seatGrid,
         int screenStatus);
-
     const std::string& getScreenId() const;
     Theatre* getTheatre() const;
     const std::string& getName() const;
@@ -32,7 +30,6 @@ public:
     int getTotalColumns() const;
     const std::vector<std::vector<Seat*>>& getSeatGrid() const;
     int getScreenStatus() const;
-
     void setScreenId(const std::string& screenId);
     void setTheatre(Theatre* theatre);
     void setName(const std::string& name);

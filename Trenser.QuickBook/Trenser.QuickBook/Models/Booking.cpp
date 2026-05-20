@@ -1,7 +1,7 @@
 #include "Booking.h"
 
 Booking::Booking()
-    : m_id(""),
+    : m_bookingId(""),
     m_customer(nullptr),
     m_show(nullptr),
     m_bookedSeats(),
@@ -15,7 +15,7 @@ Booking::Booking(const std::string& id,
     const std::vector<Seat*>& bookedSeats,
     int status,
     int amount)
-    : m_id(id),
+    : m_bookingId(id),
     m_customer(customer),
     m_show(show),
     m_bookedSeats(bookedSeats),
@@ -23,9 +23,9 @@ Booking::Booking(const std::string& id,
     m_amount(amount)
 {}
 
-const std::string& Booking::getId() const
+const std::string& Booking::getBookingId() const
 {
-    return m_id;
+    return m_bookingId;
 }
 
 User* Booking::getCustomer() const
@@ -53,9 +53,9 @@ int Booking::getAmount() const
     return m_amount;
 }
 
-void Booking::setId(const std::string& id)
+void Booking::setBookingId(const std::string& id)
 {
-    m_id = id;
+    m_bookingId = id;
 }
 
 void Booking::setCustomer(User* customer)

@@ -1,7 +1,7 @@
 #include "Seat.h"
 
 Seat::Seat()
-    : m_id(""),
+    : m_seatId(""),
     m_screen(nullptr),
     m_seatRow('A'),
     m_seatColumn(0),
@@ -17,7 +17,7 @@ Seat::Seat(const std::string& id,
     int seatType,
     int seatStatus,
     int bookingStatus)
-    : m_id(id),
+    : m_seatId(id),
     m_screen(screen),
     m_seatRow(seatRow),
     m_seatColumn(seatColumn),
@@ -26,9 +26,9 @@ Seat::Seat(const std::string& id,
     m_bookingStatus(bookingStatus)
 {}
 
-const std::string& Seat::getId() const
+const std::string& Seat::getSeatId() const
 {
-    return m_id;
+    return m_seatId;
 }
 
 Screen* Seat::getScreen() const
@@ -61,9 +61,9 @@ int Seat::getBookingStatus() const
     return m_bookingStatus;
 }
 
-void Seat::setId(const std::string& id)
+void Seat::setSeatId(const std::string& id)
 {
-    m_id = id;
+    m_seatId = id;
 }
 
 void Seat::setScreen(Screen* screen)

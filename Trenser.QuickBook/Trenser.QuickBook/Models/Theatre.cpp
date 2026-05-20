@@ -1,7 +1,7 @@
 #include "Theatre.h"
 
 Theatre::Theatre()
-    : m_id(""), m_name(""), m_city(""), m_address(""),
+    : m_theatreId(""), m_name(""), m_city(""), m_address(""),
     m_contactPhone(""), m_contactEmail(""),
     m_theatreOwner(nullptr), m_status(0),
     m_screens(), m_movies() {}
@@ -16,14 +16,14 @@ Theatre::Theatre(const std::string& id,
     int status,
     const std::vector<Screen*>& screens,
     const std::vector<Movie*>& movies)
-    : m_id(id), m_name(name), m_city(city), m_address(address),
+    : m_theatreId(id), m_name(name), m_city(city), m_address(address),
     m_contactPhone(contactPhone), m_contactEmail(contactEmail),
     m_theatreOwner(theatreOwner), m_status(status),
     m_screens(screens), m_movies(movies) {}
 
-const std::string& Theatre::getId() const
+const std::string& Theatre::getTheatreId() const
 {
-    return m_id;
+    return m_theatreId;
 }
 
 const std::string& Theatre::getName() const
@@ -71,9 +71,9 @@ const std::vector<Movie*>& Theatre::getMovies() const
     return m_movies;
 }
 
-void Theatre::setId(const std::string& id)
+void Theatre::setTheatreId(const std::string& id)
 {
-    m_id = id;
+    m_theatreId = id;
 }
 
 void Theatre::setName(const std::string& name)

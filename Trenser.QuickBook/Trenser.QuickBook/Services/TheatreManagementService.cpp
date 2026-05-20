@@ -1,8 +1,8 @@
 #include "TheatreManagementService.h"
 
-TheatreManagementService::TheatreManagementService()
-{
-}
+TheatreManagementService::TheatreManagementService() :
+    m_dataStore(DataStore::getInstance())
+{}
 
 bool TheatreManagementService::addTheatre(const std::string& name,
     const std::string& city,
@@ -50,7 +50,7 @@ int TheatreManagementService::viewTheatreStatus(const std::string& theatreId) co
 
 std::vector<Theatre*> TheatreManagementService::listAllTheatres() const
 {
-    return theatres;
+    return {};
 }
 
 std::vector<Theatre*> TheatreManagementService::listTheatresByCity(const std::string& city) const
