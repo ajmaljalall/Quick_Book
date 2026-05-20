@@ -29,7 +29,7 @@ private:
 	std::map<std::string, Screen*> m_screen;
 	std::map<std::string, Seat*> m_seat;
 	std::map<std::string, Show*> m_show;
-	std::map<std::string, ShowSeatAvailability> m_showSeatAvailability;
+	std::map<std::string, ShowSeatAvailability*> m_showSeatAvailability;
 	std::map<std::string, Theatre*> m_theatre;
 	std::map<std::string, Ticket*> m_ticket;
 public:
@@ -37,4 +37,3 @@ public:
 	DataStore& operator=(const DataStore&) = delete;
 	static DataStore& getInstance();
 };
-
